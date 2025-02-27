@@ -1,0 +1,12 @@
+// Abstract Product defining a window interface.
+public abstract class Window{
+    protected String title; // Window title
+    public abstract void repaint();
+}
+
+
+
+
+
+
+
